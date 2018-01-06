@@ -1,0 +1,10 @@
+obese,BS_high,AC_high,yes
+over,BS_normal,AC_poor,yes
+normal,BS_low,AC_moderate,no
+under,BS_normal,AC_high,no
+obese,BS_normal,AC_moderate,yes
+obese,BS_high,AC_low,yes
+over,BS_high,AC_moderate,yes
+normal,BS_high,AC_low,yes
+under,BS_high,AC_low,yes
+normal,BS_high,AC_high,no
